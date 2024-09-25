@@ -1,0 +1,77 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+calcular-imc/node_modules
+calcular-imc/.pnp
+calcular-imc/.pnp.js
+
+# testing
+calcular-imc/coverage
+
+# production
+calcular-imc/build
+
+# misc
+calcular-imc/.DS_Store
+calcular-imc/.env.local
+calcular-imc/.env.development.local
+calcular-imc/.env.test.local
+calcular-imc/.env.production.local
+
+calcular-imc/.gitignore
+
+calcular-imc/npm-debug.log*
+calcular-imc/yarn-debug.log*
+calcular-imc/yarn-error.log*
+
+# Calculadora Simples
+
+# dependencies
+calculadora-simples/node_modules
+calculadora-simples/.pnp
+calculadora-simples/.pnp.js
+
+# testing
+calculadora-simples/coverage
+
+# production
+calculadora-simples/build
+
+# misc
+calculadora-simples/.DS_Store
+calculadora-simples/.env.local
+calculadora-simples/.env.development.local
+calculadora-simples/.env.test.local
+calculadora-simples/.env.production.local
+
+calculadora-simples/.gitignore
+
+calculadora-simples/npm-debug.log*
+calculadora-simples/yarn-debug.log*
+calculadora-simples/yarn-error.log*
+
+# JOGO DA VELHA
+
+# dependencies
+jogo-da-velha/node_modules
+jogo-da-velha/.pnp
+jogo-da-velha/.pnp.js
+
+# testing
+jogo-da-velha/coverage
+
+# production
+jogo-da-velha/build
+
+# misc
+jogo-da-velha/.DS_Store
+jogo-da-velha/.env.local
+jogo-da-velha/.env.development.local
+jogo-da-velha/.env.test.local
+jogo-da-velha/.env.production.local
+
+jogo-da-velha/.gitignore
+
+jogo-da-velha/npm-debug.log*
+jogo-da-velha/yarn-debug.log*
+jogo-da-velha/yarn-error.log*
